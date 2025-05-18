@@ -17,6 +17,7 @@
 
 // layout
 @import './src/assets/css/layout/footer';
+@import './src/assets/css/layout/wrapper';
 @import './src/assets/css/layout/header';
 @import './src/assets/css/layout/login';
 @import './src/assets/css/layout/nav';
@@ -102,4 +103,8 @@ h1{
 
 
 
-
+.wrapper .box{
+  background-color: blue;
+  width: 900px;
+  height: 200px;
+}
