@@ -218,6 +218,12 @@ footer .footerContact {
   padding: 60px;
 }
 
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  outline: 1px solid black;
+}
+
 header {
   height: 200px;
   background-color: #29786A;
@@ -742,4 +748,10 @@ h1 {
   background-color: white;
   width: 80px;
   height: 60px;
+}
+
+.wrapper .box {
+  background-color: blue;
+  width: 900px;
+  height: 200px;
 }/*# sourceMappingURL=style.css.map */
